@@ -15,7 +15,7 @@ You can log in to your own account using the following credentials: ``wiener:pet
 
 ## Video
 
-[![Modifying Serialized Objects](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=nD1haHhTrIM)
+[![Modifying Serialized Objects](http://img.youtube.com/vi/nD1haHhTrIM/0.jpg)](http://www.youtube.com/watch?v=nD1haHhTrIM)
 
 ## Start
 You should configure your browser and proxy to intercept messages.
