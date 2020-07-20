@@ -2,4 +2,4 @@
 
 ## Insecure Deserialization
 
-[Insecure Deserialization](insecure-deserialization/1-lab.md)
+[Lab Modifying serialized objects](insecure-deserialization/1-lab.md)
