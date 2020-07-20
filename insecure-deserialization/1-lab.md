@@ -8,6 +8,11 @@ This lab uses a serialization-based session mechanism and is vulnerable to privi
 
 You can log in to your own account using the following credentials: ``wiener:peter``
 
+## Prerequisites
+
+1. You should have read the sections until this lab.
+2. Burp Suite Community/Professional
+
 ## Start
 You should configure your browser and proxy to intercept messages.
 
@@ -49,7 +54,7 @@ Connection: close
 Content-Length: 0
 ```
 
-In the response mark the value of the ``Set-Cookie`` header completely and choose in the context menu **Send to Decoder**. Open the Decoder tab and click the **Decode as** button in the dropdown field choose **URL** click the **Decode as** next to the new window and choose  **Base64**. Your Decoder tab should look similar to the following screenshot.
+In the response mark the value of the ``Set-Cookie`` header completely (``Tzo0OiJVc2VyIjoyOntzOjg6InVzZXJuYW1lIjtzOjY6IndpZW5lciI7czo1OiJhZG1pbiI7YjowO30%3d``) and choose in the context menu **Send to Decoder**. Open the Decoder tab and click the **Decode as** button. In the dropdown field choose **URL** click the **Decode as** next to the new window and choose  **Base64**. Your Decoder tab should look similar to the following screenshot.
 
 ![Picture 1](images/1-lab/3-pic.png)
 
@@ -95,4 +100,6 @@ You see in the upper right of your browser window the **Admin panel** link. Clic
 
 ![Picture 1](images/1-lab/6-pic.png)
 
-You can delete ``carlos`` and this finishes the lab. (If something appears like ``Admin interface only available if logged in as an administrator`` you have to replace the ``Cookie`` header value again)
+You can delete ``carlos`` and this finishes the lab. If you click the **Delete** link you have to replace the value of the ``Cookie`` header again.
+
+![Picture 1](images/1-lab/7-pic.png)
