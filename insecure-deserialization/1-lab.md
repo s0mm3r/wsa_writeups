@@ -13,6 +13,10 @@ You can log in to your own account using the following credentials: ``wiener:pet
 1. You should have read the sections until this lab.
 2. Burp Suite Community/Professional
 
+## Video
+
+[![Modifying Serialized Objects](http://img.youtube.com/vi/nD1haHhTrIM/0.jpg)](http://www.youtube.com/watch?v=nD1haHhTrIM)
+
 ## Start
 You should configure your browser and proxy to intercept messages.
 
