@@ -15,7 +15,7 @@ You can log in to your own account using the following credentials: ``wiener:pet
 
 ## Video
 
-[![Modifying Serialized Objects](http://img.youtube.com/vi/nD1haHhTrIM/0.jpg)](http://www.youtube.com/watch?v=nD1haHhTrIM)
+[![Modifying Serialized Objects](http://img.youtube.com/vi/l7KCL7vY98k/0.jpg)](https://www.youtube.com/watch?v=l7KCL7vY98k)
 
 ## Start
 
